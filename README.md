@@ -1,6 +1,7 @@
 # ESG-Carbon-Accounting-Tools
 Python tools for greenhouse gas accounting, emissions calculations, and ESG analytics.
-# ESG Carbon Accounting Tools
+
+# Corporate GHG Emissions Calculator
 
 ## Overview
 
